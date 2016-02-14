@@ -1,0 +1,8 @@
+C:\Users\Judan\Desktop\Concurrency\template_PT\bin\Release\template.exe.config
+C:\Users\Judan\Desktop\Concurrency\template_PT\bin\Release\template.exe
+C:\Users\Judan\Desktop\Concurrency\template_PT\bin\Release\template.pdb
+C:\Users\Judan\Desktop\Concurrency\template_PT\bin\Release\OpenTK.dll
+C:\Users\Judan\Desktop\Concurrency\template_PT\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Judan\Desktop\Concurrency\template_PT\obj\Release\template.csprojResolveAssemblyReference.cache
+C:\Users\Judan\Desktop\Concurrency\template_PT\obj\Release\template.exe
+C:\Users\Judan\Desktop\Concurrency\template_PT\obj\Release\template.pdb
